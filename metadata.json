@@ -1,0 +1,16 @@
+{
+  "name": "OpenSourceCity",
+  "symbol": "OSC",
+  "description": "A community-driven social token.",
+  "image": "https://raw.githubusercontent.com/Jun0908/crypto-assets/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Jun0908/crypto-assets/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
